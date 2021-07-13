@@ -1,5 +1,6 @@
 ## [rsschool-cv](rsccool-cv)
 
+
 # Elvin Yekayev
 
 # My Contact Info
@@ -22,6 +23,7 @@ I'm currently working several small web projects (example: [speakers.az](http://
 * HTML
 * CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
 * JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),JSON.
+* React JS, Redux (intermediate level knowledge).
 * Version control: Git (remote service GitHub).
 * Module Bundlers: Gulp, Webpack.
 * C (basic knowledge), Python(basic knowledge) - Flask Framework( basic knowledge), SQLite(basic knowledge).
@@ -31,8 +33,8 @@ I'm currently working several small web projects (example: [speakers.az](http://
 
 # Code examples
 
-```
-function findLongestWord(text) {
+```js
+function{color:blue} findLongestWord(text) {
     let words = text.split(" ");
     let word = "";
     // for (let i = 0; i < words.length; i++) {
@@ -54,3 +56,38 @@ nibh pellentesque dui, nec consectetur
 erat orci et libero. ");
 console.log(longestWord);
 ```
+# Education
+
+* **Bachelor, Azerbaijan State Pedagogical University,Baku**
+    * Faculty of Mathematics.
+* **IT-City Academy**
+    * Basic knowledge of programming and algorithm knowledge using C language.
+* **Ecma-Code Education**
+    * Basic and advanced knowledge of üeb development knowledge using JavaScript and React JS.
+* **Pragmatech Education**
+    * Introduction to programming,Algorithms, Pseudocode, Syntax,  Data Types,  Operators. Booleans,  CommandLine Interaction, Functions.
+
+
+# Experience
+
+* Small own business -- Fast-food delivery(Since 2014).
+
+* I have little experience in JS and Frontend development. I have worked in the team on several small projects and currently working.
+
+# Languages
+
+- Azerbaijan
+- Turkish
+- Russian
+## English 
+-  [StreamLine Language School English test result](https://test.str.by/mod/quiz/view.php?id=1176): **Pre-Intermediate (CEFR A2+).** 
+-  [EPAM English test result](https://examinator.epam.com/Main/PersonalAssignments): **A1**
+I try to learn English in every possible way. I use application in smartphone:  Duolingo and I use google translate a lot. 
+
+
+
+<br>
+<br>
+
+[<img align="center" alt="rsschool" width="100px"  src="img/rs_school_js.svg" />](https://rs.school/) 
+
