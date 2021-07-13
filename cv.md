@@ -16,3 +16,15 @@
 # Summary
 
 I'm currently working several small web projects (example: [speakers.az](http://speakers.az/)).My goal is to learn everything new and exciting. I love to code and coffee. I can(love) spend a lot of time doing what interests me. My core strengths  are in problem solving and fast learning.I want to get knowledge and skills that will be enough for employment in a company. 
+
+# Skills
+
+* HTML
+* CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology).
+* JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),JSON.
+* Version control: Git (remote service GitHub).
+* Module Bundlers: Gulp, Webpack.
+* C (basic knowledge), Python(basic knowledge) - Flask Framework( basic knowledge), SQLite(basic knowledge).
+* Windows OS, Linux(Ubuntu)
+* Figma(for web development)
+* Editors: Sublime, Brackets, **VSCode**, PyCharm community
