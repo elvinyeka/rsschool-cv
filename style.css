@@ -274,3 +274,33 @@ pre {
     font-weight: 600;
     color: #6c757d;
 }
+
+/* ===  FOOTER ====  */
+
+.footer__links {
+    margin: 50px 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer__links img {
+    width: 150px;
+}
+.footer__links i {
+    font-size: 60px;
+}
+.fa-youtube-square {
+    color: #ff0000;
+}
+.fa-github-alt {
+    color: #000;
+}
+
+.author {
+    margin: 20px 0 50px;
+    text-align: right;
+    color: #0c2461;
+}
+.author a:hover {
+    font-weight: 900;
+}
